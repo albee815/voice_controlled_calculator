@@ -1,0 +1,9 @@
+HResults -A -T 1 -e def sil -I ref.mlf labellist.txt rec.mlf 
+====================== HTK Results Analysis =======================
+  Date: Sun Nov 29 20:45:23 2015
+  Ref : ref.mlf
+  Rec : rec.mlf
+------------------------ Overall Results --------------------------
+SENT: %Correct=3.33 [H=2, S=58, N=60]
+WORD: %Corr=100.00, Acc=28.89 [H=180, D=0, S=0, I=128, N=180]
+===================================================================

@@ -1,0 +1,302 @@
+#!MLF!#
+"/home/albee/544/newP/data/test/lab/one01.lab"
+0 7363010 sil
+7387070 10755770 one
+10803900 18503780 sil
+.
+"/home/albee/544/newP/data/test/lab/one02.lab"
+0 4947170 sil
+4985670 8431370 one
+8450620 14822270 sil
+.
+"/home/albee/544/newP/data/test/lab/one03.lab"
+0 8060810 sil
+8084880 11164830 one
+11188890 18503780 sil
+.
+"/home/albee/544/newP/data/test/lab/one04.lab"
+0 8151050 sil
+8211200 11489670 one
+11519740 23159800 sil
+.
+"/home/albee/544/newP/data/test/lab/two01.lab"
+0 5219080 sil
+5262390 9095480 two
+9138800 16696710 sil
+.
+"/home/albee/544/newP/data/test/lab/two02.lab"
+77000 4985670 sil
+5004920 8566120 two
+8585370 14841520 sil
+.
+"/home/albee/544/newP/data/test/lab/two03.lab"
+0 6560540 sil
+6606260 10332280 two
+10378000 17601450 sil
+.
+"/home/albee/544/newP/data/test/lab/two04.lab"
+0 6731380 sil
+6749430 9420320 two
+9438370 13895880 sil
+.
+"/home/albee/544/newP/data/test/lab/three01.lab"
+0 5582410 sil
+5601660 9490100 three
+9509350 14841520 sil
+.
+"/home/albee/544/newP/data/test/lab/three02.lab"
+0 6667620 sil
+6688070 11167230 three
+11187690 15728210 sil
+.
+"/home/albee/544/newP/data/test/lab/three03.lab"
+0 6333150 sil
+6352400 10933830 three
+10953080 14822270 sil
+.
+"/home/albee/544/newP/data/test/lab/three04.lab"
+0 7726350 sil
+7749210 12252440 three
+12275300 17601450 sil
+.
+"/home/albee/544/newP/data/test/lab/four01.lab"
+0 4527890 sil
+4527890 11609980 four
+11609980 18459860 sil
+.
+"/home/albee/544/newP/data/test/lab/four02.lab"
+0 3599090 sil
+3599090 10216780 four
+10216780 16602270 sil
+.
+"/home/albee/544/newP/data/test/lab/four03.lab"
+0 3250790 sil
+3250790 10216780 four
+10216780 14744670 sil
+.
+"/home/albee/544/newP/data/test/lab/four04.lab"
+0 6037190 sil
+6037190 11958280 four
+11958280 18808160 sil
+.
+"/home/albee/544/newP/data/test/lab/five01.lab"
+0 2200000 sil -1030.937500
+43310 5717160 sil
+5760470 11824130 five
+11845790 16696710 sil
+.
+"/home/albee/544/newP/data/test/lab/five02.lab"
+0 4663240 sil
+4686100 11109490 five
+11132340 17555730 sil
+.
+"/home/albee/544/newP/data/test/lab/five03.lab"
+0 6240510 sil
+6240510 11546210 five
+11546210 19378440 sil
+.
+"/home/albee/544/newP/data/test/lab/five04.lab"
+0 4914690 sil
+4960410 11932410 five
+11955270 17624310 sil
+.
+"/home/albee/544/newP/data/test/lab/six01.lab"
+0 5219080 sil
+5240730 10979550 six
+11001210 16718370 sil
+.
+"/home/albee/544/newP/data/test/lab/six02.lab"
+0 2829710 sil
+2868210 8585370 six
+8623870 14822270 sil
+.
+"/home/albee/544/newP/data/test/lab/six03.lab"
+24060 7387070 sil
+7411140 13186050 six
+13210110 18527840 sil
+.
+"/home/albee/544/newP/data/test/lab/six04.lab"
+0 6720550 sil
+6743410 13143940 six
+13166800 17624310 sil
+.
+"/home/albee/544/newP/data/test/lab/seven01.lab"
+0 5977030 sil
+5998690 12300560 seven
+12322220 16675060 sil
+.
+"/home/albee/544/newP/data/test/lab/seven02.lab"
+22860 5737610 sil
+5783330 11155200 seven
+11155200 17601450 sil
+.
+"/home/albee/544/newP/data/test/lab/seven03.lab"
+24060 6400530 sil
+6424590 12199500 seven
+12223560 18551900 sil
+.
+"/home/albee/544/newP/data/test/lab/seven04.lab"
+0 6543700 sil
+6568960 11925190 seven
+11950460 19479500 sil
+.
+"/home/albee/544/newP/data/test/lab/eight01.lab"
+0 6346390 sil
+6376460 10737730 eight
+10767800 23069570 sil
+.
+"/home/albee/544/newP/data/test/lab/eight02.lab"
+0 5832660 sil
+5851910 10587340 eight
+10606590 14841520 sil
+.
+"/home/albee/544/newP/data/test/lab/eight03.lab"
+0 6354810 sil
+6377670 11338080 eight
+11383790 17624310 sil
+.
+"/home/albee/544/newP/data/test/lab/eight04.lab"
+0 5967410 sil
+6015530 10539210 eight
+10587340 18527840 sil
+.
+"/home/albee/544/newP/data/test/lab/nine01.lab"
+0 5583620 sil
+5604070 10287760 nine
+10308220 15728210 sil
+.
+"/home/albee/544/newP/data/test/lab/nine02.lab"
+64970 6756650 sil
+6778300 11715850 nine
+11737510 16653400 sil
+.
+"/home/albee/544/newP/data/test/lab/nine03.lab"
+64970 5825440 sil
+5847100 10806300 nine
+10827960 16675060 sil
+.
+"/home/albee/544/newP/data/test/lab/nine04.lab"
+86620 6150280 sil
+6171940 10849610 nine
+10914580 16696710 sil
+.
+"/home/albee/544/newP/data/test/lab/ten01.lab"
+0 4560980 sil
+4581430 9224220 ten
+9244670 15748660 sil
+.
+"/home/albee/544/newP/data/test/lab/ten02.lab"
+0 6561740 sil
+6583400 10806300 ten
+10827960 16675060 sil
+.
+"/home/albee/544/newP/data/test/lab/ten03.lab"
+160010 7406320 sil
+7452040 12435310 ten
+12458170 17601450 sil
+.
+"/home/albee/544/newP/data/test/lab/ten04.lab"
+108280 6453460 sil
+6475120 11412670 ten
+11434320 16631740 sil
+.
+"/home/albee/544/newP/data/test/lab/zero01.lab"
+171590 6569560 sil
+6594080 13776470 zero
+13800980 18875240 sil
+.
+"/home/albee/544/newP/data/test/lab/zero02.lab"
+72190 7146450 sil
+7170510 13522920 zero
+13546980 18503780 sil
+.
+"/home/albee/544/newP/data/test/lab/zero03.lab"
+120310 7748010 sil
+7772070 13931970 zero
+13956030 18527840 sil
+.
+"/home/albee/544/newP/data/test/lab/zero04.lab"
+137150 6903420 sil
+6926280 13189660 zero
+13212520 17601450 sil
+.
+"/home/albee/544/newP/data/test/lab/plus01.lab"
+48120 5558350 sil
+5582410 11140770 plus
+11164830 18503780 sil
+.
+"/home/albee/544/newP/data/test/lab/plus02.lab"
+205730 7452040 sil
+7497760 13303950 plus
+13349670 17601450 sil
+.
+"/home/albee/544/newP/data/test/lab/plus03.lab"
+64970 5132450 sil
+5154110 11824130 plus
+11845790 16675060 sil
+.
+"/home/albee/544/newP/data/test/lab/plus04.lab"
+0 6518430 sil
+6540090 12603740 plus
+12625400 16718370 sil
+.
+"/home/albee/544/newP/data/test/lab/minus01.lab"
+0 4785960 sil
+4807610 12300560 minus
+12322220 16696710 sil
+.
+"/home/albee/544/newP/data/test/lab/minus02.lab"
+68580 5577600 sil
+5600460 13166800 minus
+13189660 17601450 sil
+.
+"/home/albee/544/newP/data/test/lab/minus03.lab"
+22860 5920490 sil
+5943350 13372530 minus
+13395390 17624310 sil
+.
+"/home/albee/544/newP/data/test/lab/minus04.lab"
+25270 7023740 sil
+7074270 14527510 minus
+14552780 19428970 sil
+.
+"/home/albee/544/newP/data/test/lab/multiply01.lab"
+0 4720990 sil
+4742650 15960410 multiply
+15982070 16718370 sil
+.
+"/home/albee/544/newP/data/test/lab/multiply02.lab"
+0 5823040 sil
+5849500 15166360 multiply
+15192830 19718910 sil
+.
+"/home/albee/544/newP/data/test/lab/multiply03.lab"
+0 6087720 sil
+6143060 16077110 multiply
+16104780 21279340 sil
+.
+"/home/albee/544/newP/data/test/lab/multiply04.lab"
+0 7278790 sil
+7305260 16701520 multiply
+16727990 20380620 sil
+.
+"/home/albee/544/newP/data/test/lab/divide01.lab"
+68580 5486170 sil
+5509020 11772400 divide
+11795260 17578590 sil
+.
+"/home/albee/544/newP/data/test/lab/divide02.lab"
+490870 5276820 sil
+5317730 11208140 divide
+11249050 27815820 sil
+.
+"/home/albee/544/newP/data/test/lab/divide03.lab"
+137150 5440450 sil
+5463310 13509680 divide
+13532540 17464290 sil
+.
+"/home/albee/544/newP/data/test/lab/divide04.lab"
+0 5714760 sil
+5737610 11703820 divide
+11726680 17601450 sil
+.

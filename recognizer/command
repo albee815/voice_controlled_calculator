@@ -1,0 +1,7 @@
+
+HVite -C directin.conf -g -H model/hmm16/hmm_one -H model/hmm16/hmm_two -H model/hmm16/hmm_three -H model/hmm16/hmm_four -H model/hmm16/hmm_five -H model/hmm16/hmm_six -H model/hmm16/hmm_seven -H model/hmm16/hmm_eight -H model/hmm16/hmm_nine -H model/hmm16/hmm_ten -H model/hmm16/hmm_zero -H model/hmm16/hmm_sil -H model/hmm16/hmm_plus -H model/hmm16/hmm_minus -H model/hmm16/hmm_multiply -H model/hmm16/hmm_divide -w def/net.slf def/dict hmmlist.txt
+
+HVite -A -T 1 -H model/hmm16/hmm_one -H model/hmm16/hmm_two -H model/hmm16/hmm_three -H model/hmm16/hmm_four -H model/hmm16/hmm_five -H model/hmm16/hmm_six -H model/hmm16/hmm_seven -H model/hmm16/hmm_eight -H model/hmm16/hmm_nine -H model/hmm16/hmm_ten -H model/hmm16/hmm_zero -H model/hmm16/hmm_sil -H model/hmm16/hmm_plus -H model/hmm16/hmm_minus -H model/hmm16/hmm_multiply -H model/hmm16/hmm_divide -i reco.mlf -w def/net.slf def/dict hmmlist.txt input.mfcc
+
+HCopy  -A  -D  -C training/config  -S training/testTargetlist
+

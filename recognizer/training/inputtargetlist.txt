@@ -1,0 +1,3 @@
+/home/albee/544/newP/data/train/wav/one01.wav /home/albee/544/newP/data/train/mfcc/one01.mfcc
+/home/albee/544/newP/data/train/wav/one02.wav /home/albee/544/newP/data/train/mfcc/one02.mfcc
+/home/albee/544/newP/data/train/wav/one03.wav /home/albee/544/newP/data/train/mfcc/one03.mfcc

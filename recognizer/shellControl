@@ -1,0 +1,4 @@
+#!/bin/sh
+HCopy -C test/config  -S test/targetList
+HVite -A -T 1 -S test/list.txt -H model/hmm16/hmm16.mmf -i recog.mlf -w def/net.slf def/dict hmmlist.txt
+
